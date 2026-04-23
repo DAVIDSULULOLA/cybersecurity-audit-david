@@ -1,7 +1,7 @@
 # Beginner Cybersecurity Audit Project
 
 ## Name
-David Sululola
+David 
 
 ## Project Title
 Personal Laptop Cybersecurity Audit
